@@ -24,7 +24,20 @@
 			"thumbUrl": "https://i.imgur.com/zBWqVl2.jpg.png",
 			"name": "Caveira01",
 			"category": "Colorful"
-	       
+			},	
+		{
+			"author": "by Tiu_Oshida",
+			"url": "https://i.imgur.com/0xZ8Bl1.jpg",
+			"thumbUrl": "https://i.imgur.com/0xZ8Bl1.jpg",
+			"name": "Mar",
+			"category": "Dark"
+	       },	
+		{
+			"author": "by Tiu_Oshida",
+			"url": "https://i.imgur.com/TRpmcst.jpg",
+			"thumbUrl": "https://i.imgur.com/TRpmcst.jpg",
+			"name": "Derretendo",
+			"category": "Dark"
                         }
 	]
 }
