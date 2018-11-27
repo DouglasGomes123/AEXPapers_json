@@ -15,28 +15,42 @@
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/ocXvXv6.jpg",
 			"thumbUrl": "https://i.imgur.com/ocXvXv6.jpg",
-			"name": "Caveira02",
+			"name": "Skull02",
 			"category": "Colorful"
 		},	
 		{
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/zBWqVl2.jpg.png",
 			"thumbUrl": "https://i.imgur.com/zBWqVl2.jpg.png",
-			"name": "Caveira01",
+			"name": "Skull01",
 			"category": "Colorful"
 			},	
 		{
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/0xZ8Bl1.jpg",
 			"thumbUrl": "https://i.imgur.com/0xZ8Bl1.jpg",
-			"name": "Mar",
+			"name": "Sea",
 			"category": "Dark"
 	       },	
 		{
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/TRpmcst.jpg",
 			"thumbUrl": "https://i.imgur.com/TRpmcst.jpg",
-			"name": "Derretendo",
+			"name": "Drop",
+			"category": "Dark"
+			},	
+		{
+			"author": "by Rodrigo",
+			"url": "https://i.imgur.com/pc7WPff.jpg",
+			"thumbUrl": "https://i.imgur.com/pc7WPff.jpg",
+			"name": "Sphere",
+			"category": "Dark"
+			},	
+		{
+			"author": "by Rodrigo",
+			"url": "https://i.imgur.com/6iI92En.jpg",
+			"thumbUrl": "https://i.imgur.com/6iI92En.jpg",
+			"name": "Lunar",
 			"category": "Dark"
                         }
 	]
