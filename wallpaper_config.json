@@ -12,6 +12,20 @@
 
 	"Wallpapers": [
 		{
+			"author": "by Tiu_Oshida",
+			"url": "https://i.imgur.com/ocXvXv6.jpg",
+			"thumbUrl": "https://i.imgur.com/ocXvXv6.jpg",
+			"name": "TESTE02",
+			"category": "Colorful"
+		},	
+		{
+			"author": "by Tiu_Oshida",
+			"url": "https://i.imgur.com/zBWqVl2.jpg.png",
+			"thumbUrl": "https://i.imgur.com/zBWqVl2.jpg.png",
+			"name": "TESTE01",
+			"category": "Colorful"
+	        },	
+		{
                          "author": "Gagan Daywal",
 				"url": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/aosp.png",
 				"thumbUrl": "https://raw.githubusercontent.com/AmolAmrit/AEXPapers_Gallery/master/Gagan/aosp.png",
