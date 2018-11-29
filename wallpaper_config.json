@@ -1,9 +1,9 @@
 {
 	"Categories": [{
-			"name": "Light"
+			"name": "LiquidRemix"
 		},
 		{
-			"name": "Dark"	
+			"name": "Abstract"	
 		},
 		{
 			"name": "Other"
@@ -16,49 +16,56 @@
 			"url": "https://i.imgur.com/ocXvXv6.jpg",
 			"thumbUrl": "https://i.imgur.com/ocXvXv6.jpg",
 			"name": "Skull02",
-			"category": "Colorful"
+			"category": "LiquidRemix"
 		},	
 		{
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/zBWqVl2.jpg.png",
 			"thumbUrl": "https://i.imgur.com/zBWqVl2.jpg.png",
 			"name": "Skull01",
-			"category": "Colorful"
+			"category": "LiquidRemix"
 			},	
 		{
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/0xZ8Bl1.jpg",
 			"thumbUrl": "https://i.imgur.com/0xZ8Bl1.jpg",
 			"name": "Sea",
-			"category": "Dark"
+			"category": "LiquidRemix"
 	       },	
 		{
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/TRpmcst.jpg",
 			"thumbUrl": "https://i.imgur.com/TRpmcst.jpg",
 			"name": "Drop",
-			"category": "Dark"
+			"category": "LiquidRemix"
 			},	
 		{
 			"author": "by Rodrigo",
 			"url": "https://i.imgur.com/pc7WPff.jpg",
 			"thumbUrl": "https://i.imgur.com/pc7WPff.jpg",
 			"name": "Sphere",
-			"category": "Dark"
+			"category": "LiquidRemix"
 			},	
 		{
 			"author": "by Rodrigo",
 			"url": "https://i.imgur.com/6iI92En.jpg",
 			"thumbUrl": "https://i.imgur.com/6iI92En.jpg",
 			"name": "Lunar",
-			"category": "Dark"
+			"category": "LiquidRemix"
 			},	
 		{
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/GYq3Pu9.jpg",
 			"thumbUrl": "https://i.imgur.com/GYq3Pu9.jpg",
 			"name": "Foliculus",
-			"category": "Light"
+			"category": "LiquidRemix"
+			},	
+		{
+			"author": "by D.G",
+			"url": "https://i.imgur.com/7tqLs0W.jpg",
+			"thumbUrl": "https://i.imgur.com/7tqLs0W.jpg",
+			"name": "Abstract Red",
+			"category": "Abstract"
                         }
 	]
 }
