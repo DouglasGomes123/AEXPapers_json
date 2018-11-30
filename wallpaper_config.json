@@ -38,33 +38,68 @@
 			"thumbUrl": "https://i.imgur.com/TRpmcst.jpg",
 			"name": "Drop",
 			"category": "LiquidRemix"
-			},	
+		},	
 		{
 			"author": "by Rodrigo",
 			"url": "https://i.imgur.com/pc7WPff.jpg",
 			"thumbUrl": "https://i.imgur.com/pc7WPff.jpg",
 			"name": "Sphere",
 			"category": "LiquidRemix"
-			},	
+		},	
 		{
 			"author": "by Rodrigo",
 			"url": "https://i.imgur.com/6iI92En.jpg",
 			"thumbUrl": "https://i.imgur.com/6iI92En.jpg",
 			"name": "Lunar",
 			"category": "LiquidRemix"
-			},	
+		},	
 		{
 			"author": "by Tiu_Oshida",
 			"url": "https://i.imgur.com/GYq3Pu9.jpg",
 			"thumbUrl": "https://i.imgur.com/GYq3Pu9.jpg",
 			"name": "Foliculus",
 			"category": "LiquidRemix"
-			},	
+		},	
 		{
 			"author": "by D.G",
 			"url": "https://i.imgur.com/7tqLs0W.jpg",
 			"thumbUrl": "https://i.imgur.com/7tqLs0W.jpg",
 			"name": "Abstract Red",
+			"category": "Abstract"
+		},	
+		{
+			"author": "by D.G",
+			"url": "https://i.imgur.com/aDihsCC.jpg",
+			"thumbUrl": "https://i.imgur.com/aDihsCC.jpg",
+			"name": "Abstract Purple",
+			"category": "Abstract"
+		},	
+		{
+			"author": "by D.G",
+			"url": "https://i.imgur.com/KpyTaS7.jpg",
+			"thumbUrl": "https://i.imgur.com/KpyTaS7.jpg",
+			"name": "Abstract Blue",
+			"category": "Abstract"
+		},	
+		{
+			"author": "by D.G",
+			"url": "https://i.imgur.com/tL4sGXq.jpg",
+			"thumbUrl": "https://i.imgur.com/tL4sGXq.jpg",
+			"name": "Abstract Orange",
+			"category": "Abstract"
+		},	
+		{
+			"author": "by D.G",
+			"url": "https://i.imgur.com/9FvJXFB.jpg",
+			"thumbUrl": "https://i.imgur.com/9FvJXFB.jpg",
+			"name": "Abstract Green",
+			"category": "Abstract"
+		},	
+		{
+			"author": "by D.G",
+			"url": "https://i.imgur.com/k6AHSSL.jpg",
+			"thumbUrl": "https://i.imgur.com/k6AHSSL.jpg",
+			"name": "Abstract Yellow",
 			"category": "Abstract"
                         }
 	]
