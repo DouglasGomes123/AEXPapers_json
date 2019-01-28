@@ -4,6 +4,9 @@
          "name":"Havoc"
       },
       {
+         "name":"Darck"
+      },
+      {
          "name":"Other"
       }
    ],
@@ -21,6 +24,13 @@
          "thumbUrl":"https://raw.githubusercontent.com/DouglasGomes123/HavocWall_Gallery/master/D.G/Havoc2.jpg",
          "name":"Minimalist",
          "category":"Havoc"
+      },
+      {
+         "author":"Prakash Niraula",
+         "url":"https://raw.githubusercontent.com/DouglasGomes123/HavocWall_Gallery/master/D.G/Havoc3.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/DouglasGomes123/HavocWall_Gallery/master/D.G/Havoc3.jpg",
+         "name":"Darck",
+         "category":"Darck"
       }
    ]
 }
