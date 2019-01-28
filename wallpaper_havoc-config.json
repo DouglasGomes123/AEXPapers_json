@@ -1,0 +1,26 @@
+{
+   "Categories":[
+      {
+         "name":"Havoc"
+      },
+      {
+         "name":"Other"
+      }
+   ],
+   "Wallpapers":[
+      {
+         "author":"William Petry",
+         "url":"https://raw.githubusercontent.com/DouglasGomes123/HavocWall_Gallery/master/D.G/Havoc1.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/DouglasGomes123/HavocWall_Gallery/master/D.G/Havoc1.jpg",
+         "name":"Skull",
+         "category":"Havoc"
+      },
+      {
+         "author":"JP KenZo",
+         "url":"https://raw.githubusercontent.com/DouglasGomes123/HavocWall_Gallery/master/D.G/Havoc2.jpg",
+         "thumbUrl":"https://raw.githubusercontent.com/DouglasGomes123/HavocWall_Gallery/master/D.G/Havoc2.jpg",
+         "name":"Minimalist",
+         "category":"Havoc"
+      }
+   ]
+}
